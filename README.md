@@ -2,6 +2,10 @@
 
 একটি আধুনিক এবং ব্যবহারকারী-বান্ধব ওয়েব অ্যাপ্লিকেশন, যা পাসওয়ার্ড জানা থাকা যেকোনো সুরক্ষিত PDF ফাইল থেকে পাসওয়ার্ড স্থায়ীভাবে রিমুভ (Unlock) করে সাধারণ PDF হিসেবে ডাউনলোড করতে দেয়। ঠিক যেমনটি **Adobe Acrobat Pro**-তে করা হয়।
 
+🌐 **লাইভ ওয়েবসাইট (Vercel):** [https://pdf-unlocker-six.vercel.app](https://pdf-unlocker-six.vercel.app)  
+📦 **GitHub রিপোজিটরি:** [https://github.com/PrattayDev/pdf-unlocker](https://github.com/PrattayDev/pdf-unlocker)
+
+
 ---
 
 ## 🌟 প্রধান বৈশিষ্ট্যসমূহ (Features)
